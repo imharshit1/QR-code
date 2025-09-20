@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "i": "^0.3.7",
+    "inquirer": "^9.3.8",
+    "npm": "^11.6.0",
+    "qr-image": "^3.2.0"
+  },
+  "name": "qr_code",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "types": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Harshit",
+  "license": "ISC",
+  "description": "Generate QR code"
+}
